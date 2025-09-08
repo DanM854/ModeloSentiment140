@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/LENOVO/Documents/Tomas De Andreis/Universidad/8vo
+  Semestre/PLN/Parcial/mlruns/720075000476810982
+creation_time: 1757268262321
+experiment_id: '720075000476810982'
+last_update_time: 1757268262321
+lifecycle_stage: active
+name: sentiment140_ablation_preproc
