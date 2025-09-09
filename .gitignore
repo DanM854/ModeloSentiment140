@@ -1,2 +1,27 @@
-.venv
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs y cache
+*.log
+*.sqlite3
+*.db
+*.cache
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Datasets grandes (ejemplo)
 training.1600000.processed.noemoticon.csv
